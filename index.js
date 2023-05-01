@@ -6,5 +6,6 @@ function removeElement(arr, num) {
             console.log(array)
         }
     }
+    return array
 }
 removeElement(array, 5);
